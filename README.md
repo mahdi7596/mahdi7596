@@ -30,8 +30,3 @@ Passionate about building responsive and accessible web applications with modern
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi7596/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:andalibmahdi96@gmail.com)  
 
----
-
-### 🎯 **Currently...**  
-- 🔭 Working on: **[Hamkalan Project]** - (Add brief description if desired)
-- 🌱 Learning: **Zustand, Design Patterns, and DSA (Quera Courses)**
