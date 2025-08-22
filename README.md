@@ -5,6 +5,7 @@
 Frontend Developer passionate about building scalable, responsive, and accessible web applications. Experienced with React, Angular, Next.js, TypeScript, and modern frontend engineering practices including state management (Redux, Zustand), API integration (React Query), and reusable component design.
 
 I’ve contributed to projects ranging from ERP and LMS platforms to SaaS applications, eCommerce systems, and simulation tools. I enjoy exploring AI-assisted development tools and contributing to open source by forking and extending repositories (e.g., custom file manager, Nivo chart integrations).
+
 ---
 
 ### 🛠️ **Tech Stack**  
