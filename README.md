@@ -2,8 +2,9 @@
 
 ### 💻 Frontend Developer | JavaScript Specialist | Open-Source Enthusiast  
 
-Passionate about building responsive and accessible web applications with modern technologies. Experienced in developing **ERP systems, LMS platforms, and eCommerce websites** using software engineering best practices. Skilled in creating simulation applications and focused on delivering pixel-perfect UIs with clean, maintainable code.  
+Frontend Developer passionate about building scalable, responsive, and accessible web applications. Experienced with React, Angular, Next.js, TypeScript, and modern frontend engineering practices including state management (Redux, Zustand), API integration (React Query), and reusable component design.
 
+I’ve contributed to projects ranging from ERP and LMS platforms to SaaS applications, eCommerce systems, and simulation tools. I enjoy exploring AI-assisted development tools and contributing to open source by forking and extending repositories (e.g., custom file manager, Nivo chart integrations).
 ---
 
 ### 🛠️ **Tech Stack**  
